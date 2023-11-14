@@ -1,4 +1,3 @@
-#trabalho-pensa-compt
 <html>
   <head>
     <title>WORK 1A</title>
