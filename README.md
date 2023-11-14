@@ -1,4 +1,5 @@
 <html>
+  
   <head>
     <title>WORK 1A</title>
   </head>
@@ -14,9 +15,9 @@
     <p>Gym</p> </br>
     <fieldset>
       <legend>comece já:</legend>
-      USUARIO:<input type="text" placeholder="Digite o usuario"></br></br>              
+      EMAIL:<input type="text" placeholder="Digite o usuario"></br></br>              
       SENHA:<input type="password" placeholder="Digite a senha"></br></br>
-      Observações:<input type="textarea" placeholder="Digite as observações"></br></br>
+      EMAIL REFORÇADO:<input type="textarea" placeholder="EMAIL REFORÇADO"></br></br>
       <select>
         <option>Selecione</option>
         <option>perder barriga</option>
@@ -26,5 +27,7 @@
       </select>
       <button>PRA CIMA</button>
     </fieldset>
+  
   </body>
+  
 </html>
